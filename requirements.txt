@@ -1,0 +1,8 @@
+numpy>=1.23.0
+transformers~=4.34.0
+chromadb~=0.4.15
+pytictoc~=1.5.3
+segmentation_mask_overlay~=0.4.4
+datasets
+tqdm
+pillow
